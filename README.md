@@ -1,15 +1,11 @@
-Welcome to your new dbt project!
+# dbt Airbnb Project
 
-### Using the starter project
+## Project Overview
+This project was completed as part of the Udemy course **Complete dbt Bootcamp: Zero to Hero**. It focuses on transforming and modeling Airbnb data using dbt (Data Build Tool) and Snowflake.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Technologies Used
+- **dbt** – For data transformation and modeling
+- **Snowflake** – Cloud data warehouse for data storage and querying
 
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Acknowledgments
+This project was developed as part of an educational journey to learn and apply dbt principles through the Udemy course **Complete dbt Bootcamp: Zero to Hero**.
